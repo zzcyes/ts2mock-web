@@ -1,3 +1,5 @@
+/// <reference types="./global.d.ts" />
+
 import React, { useMemo, useState, useRef, useCallback } from "react";
 import Editor from "@monaco-editor/react";
 import TabView from "./components/TabView";
